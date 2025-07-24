@@ -20,7 +20,7 @@
                     <input type="text" name="name" id="name" class="form-input" placeholder="Nome completo"
                         value="{{ old('name', $user->name) }}">
                 </div>
-
+                
 
                 <div class="mb-4">
                     <label for="email" class="form-label">E-mail: </label>
